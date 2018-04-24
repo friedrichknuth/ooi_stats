@@ -1,0 +1,8 @@
+**/.ipynb_checkpoints/*
+**/.pyc
+sandbox/*/*
+output/*
+input/*
+*/output
+*/previous_output
+dev/*
